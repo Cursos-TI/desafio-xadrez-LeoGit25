@@ -3,4 +3,5 @@
 
 int main() {
     printf("xadrez!\n"); 
+    printf("Novo commit\n");
 }
